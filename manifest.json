@@ -1,7 +1,9 @@
 {
   "name": "Sales Center",
   "short_name": "Sales",
-  "start_url": "/",
+  "id": "https://salescenter.allfloridapaper.com/",
+  "start_url": "https://salescenter.allfloridapaper.com/",
+  "scope": "https://salescenter.allfloridapaper.com/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#3D346A"
